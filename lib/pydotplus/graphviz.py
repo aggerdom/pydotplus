@@ -448,7 +448,9 @@ def __find_executables(path):
         'neato': '',
         'circo': '',
         'fdp': '',
-        'sfdp': ''
+        'sfdp': '',
+        'osage': '',
+        'patchwork': '',
     }
 
     was_quoted = False
